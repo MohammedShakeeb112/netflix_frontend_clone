@@ -1,0 +1,12 @@
+/* h1{
+    color: teal;
+    text-align: center;
+} */
+
+*{
+    margin: 0;
+}
+
+.App{
+    background-color: #111111
+}
